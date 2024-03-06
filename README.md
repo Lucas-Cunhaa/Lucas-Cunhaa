@@ -1,5 +1,5 @@
 <h1 align="center">Hello There👋, I'm Lucas Cunha Galvão</h1>
-<h3 align="center">Looking for to be a good Web Backend Developer</h3>
+<h3 align="center">Looking for to be a good Full Stack Developer</h3>
 <h3 align="center">Studying Computer Science in UFCG (Federal University of Campina Grande) </h3>
 
 
