@@ -2,13 +2,6 @@
 <h3 align="center">Looking for to be a good Full Stack Developer</h3>
 <h3 align="center">Studying Computer Science in UFCG (Federal University of Campina Grande) </h3>
 
-
-
-
-
-[![Lucas Cunha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Cunhaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ## - 🌱 I’m currently learning
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
